@@ -1,0 +1,1 @@
+module.exports={default:{require:['step-definitions/**/*.ts','support/**/*.ts'],paths:['features/**/*.feature'],requireModule:['ts-node/register'],format:['progress']}};
